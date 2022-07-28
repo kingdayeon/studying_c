@@ -1,1 +1,1 @@
-# C 연습하기
+#  Practicing C
