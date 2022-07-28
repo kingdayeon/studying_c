@@ -1,1 +1,1 @@
-# studying_c
+# C 연습하기
